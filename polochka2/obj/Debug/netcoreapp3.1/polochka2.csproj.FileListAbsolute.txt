@@ -1,0 +1,13 @@
+C:\Users\student\skhaf\polka\polochka2\bin\Debug\netcoreapp3.1\polochka2.exe
+C:\Users\student\skhaf\polka\polochka2\bin\Debug\netcoreapp3.1\polochka2.deps.json
+C:\Users\student\skhaf\polka\polochka2\bin\Debug\netcoreapp3.1\polochka2.runtimeconfig.json
+C:\Users\student\skhaf\polka\polochka2\bin\Debug\netcoreapp3.1\polochka2.runtimeconfig.dev.json
+C:\Users\student\skhaf\polka\polochka2\bin\Debug\netcoreapp3.1\polochka2.dll
+C:\Users\student\skhaf\polka\polochka2\bin\Debug\netcoreapp3.1\polochka2.pdb
+C:\Users\student\skhaf\polka\polochka2\obj\Debug\netcoreapp3.1\polochka2.csprojAssemblyReference.cache
+C:\Users\student\skhaf\polka\polochka2\obj\Debug\netcoreapp3.1\polochka2.AssemblyInfoInputs.cache
+C:\Users\student\skhaf\polka\polochka2\obj\Debug\netcoreapp3.1\polochka2.AssemblyInfo.cs
+C:\Users\student\skhaf\polka\polochka2\obj\Debug\netcoreapp3.1\polochka2.csproj.CoreCompileInputs.cache
+C:\Users\student\skhaf\polka\polochka2\obj\Debug\netcoreapp3.1\polochka2.dll
+C:\Users\student\skhaf\polka\polochka2\obj\Debug\netcoreapp3.1\polochka2.pdb
+C:\Users\student\skhaf\polka\polochka2\obj\Debug\netcoreapp3.1\polochka2.genruntimeconfig.cache
